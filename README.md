@@ -6,4 +6,8 @@ Simple Examplel of Spinner
 - Create Spinner
 - Utilize Adapter etc.
 
-![Screenshot_20250313_173607.png](Screenshot_20250313_173607.png)![Screenshot_20250313_173617.png](Screenshot_20250313_173617.png)
+
+<img src="Screenshot_20250313_173607.png" width="200">
+<img src="Screenshot_20250313_173617.png" width="200">
+
+
